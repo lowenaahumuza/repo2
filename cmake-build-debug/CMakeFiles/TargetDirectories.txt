@@ -1,0 +1,9 @@
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/untitled9.dir
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/forloop.dir
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/ifquestion1.dir
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/ifquestion2.dir
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/ifquestion5.dir
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/ifquestion4.dir
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/taxquestion.dir
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/relworx/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

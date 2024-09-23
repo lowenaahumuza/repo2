@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled9",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "forloop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-forloop-Debug-e6996248678425eccb62.json",
+					"name" : "forloop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ifquestion1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ifquestion1-Debug-d7989643e1cf724e8480.json",
+					"name" : "ifquestion1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ifquestion2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ifquestion2-Debug-b8c690f1deadb0a998d0.json",
+					"name" : "ifquestion2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ifquestion4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ifquestion4-Debug-58cd679c58d96d865c95.json",
+					"name" : "ifquestion4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ifquestion5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ifquestion5-Debug-c8985fa532b1cba027ec.json",
+					"name" : "ifquestion5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "taxquestion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-taxquestion-Debug-8ab1871b2eaec4130039.json",
+					"name" : "taxquestion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled9-Debug-831d7e50eacd1d1362e3.json",
+					"name" : "untitled9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/relworx/CLionProjects/untitled9/cmake-build-debug",
+		"source" : "/Users/relworx/CLionProjects/untitled9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
